@@ -32,3 +32,6 @@ Update Data: input ID, ubah atribut sesuai kebutuhan.
 Hapus Data: input ID, hapus produk sesuai ID.
 Cari Data: input ID, tampilkan produk sesuai ID.
 Keluar: program berhenti.
+
+<img width="211" height="175" alt="tambah data py" src="https://github.com/user-attachments/assets/ffb3d064-e09e-49b4-b9b5-aaadc3ad54c0" />
+
