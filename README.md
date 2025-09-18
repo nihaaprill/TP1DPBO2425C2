@@ -70,9 +70,11 @@ Keluar: program berhenti.
    - Tambah Data
    <img width="496" height="499" alt="tambah data java" src="https://github.com/user-attachments/assets/c004282c-dc6d-4805-b1a4-7b7236b27add" />
    
+   
    - Tampilkan data
      <img width="302" height="322" alt="tampilkan data java" src="https://github.com/user-attachments/assets/f7818256-9030-4608-8d0b-73b26f14b747" />
-     
+
+
    - Hapus data
    <img width="350" height="379" alt="hapus data java" src="https://github.com/user-attachments/assets/68f5719e-0989-4eef-8ff1-45f1f9c18fd4" />
    
